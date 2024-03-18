@@ -1,0 +1,3 @@
+Code Runner = Para rodar o Javascript, que já libera um botão no canto superior direito para rodarmos o código.
+Auto Close Tag = Quando você cria a tag, essa extensão automaticamente já cria a tag de fechamento
+Auto Rename Tag = Quando renomear a tag, a tag de fechamento será renomeada automaticamente
